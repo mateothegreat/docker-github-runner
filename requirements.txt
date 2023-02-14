@@ -1,0 +1,6 @@
+ansible
+awscli
+python-dotenv
+pytest
+requests
+yamllint
